@@ -1,0 +1,19 @@
+.login-section {
+    width: 50%;
+    margin: 3rem auto 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .login-header {
+    flex-basis: 50%;
+  }
+  
+  .login-header h2 {
+    margin-bottom: 1rem;
+  }
+.login-form {
+  width: 100%;
+}
+  
+  
